@@ -44,8 +44,8 @@ Bok svima! Zapišite/bookmarkajte si link do ove stranice:
 
 ### 🎧 Izvori za sample mogu biti bilo što:
 
-| Vrsta                     | Primjeri                  |
-| ------------------------- | ------------------------- |
+| Vrsta                      | Primjeri                  |
+| -------------------------- | ------------------------- |
 | 🥁 Bubnjevi                | Drum loop, jedan udarac   |
 | 🎤 Vokali                  | Komadić vokalne linije    |
 | 🌆 Ambijentalni zvukovi    | Grad, priroda, kuća       |
@@ -59,13 +59,13 @@ Bok svima! Zapišite/bookmarkajte si link do ove stranice:
 
 ![Sample Example](./sample_example.png)
 
-| Umjetnik                         | Pjesma                                                                      | Sample iz                                                                      | Vrsta sample-a                                                                       |
-| -------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| Umjetnik                         | Pjesma                                                                      | Sample iz                                                                      | Vrsta sample-a                                                                        |
+| -------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
 | M.I.A.                           | [Paper Planes](https://www.youtube.com/watch?v=ewRjZoRtu0Y)                 | [The Clash – Straight to Hell](https://www.youtube.com/watch?v=t7SvtikTkrM)    | 🎸 Melodični loop                                                                     |
 | Kanye West                       | [Blood On The Leaves](https://www.youtube.com/watch?v=KEA0btSNkpw)          | [Nina Simone – Strange Fruit](https://www.youtube.com/watch?v=BnuEMdUUrZQ)     | 🎤 Vokal                                                                              |
-| N.W.A.                           | [Straight Outta Compton](https://www.youtube.com/watch?v=TMZi25Pq3T8)       | [The Winstons – Amen Brother](https://www.youtube.com/watch?v=GxZuq57_bYM)     | 🥁 Bubanj (Amen Break) → [isolirani dio](https://www.youtube.com/watch?v=rvCZ-HmXtCc) |
-| Fred again.. ft. Blessed Madonna | [Marea](https://www.youtube.com/watch?v=l4UkYBr1NnA)                        | [Zoom poziv](https://www.youtube.com/watch?v=t4EE5dGrVJU)                      | 🗣️ Govor                                                                              |
-| Gotye                            | [Somebody That I Used To Know](https://www.youtube.com/watch?v=8UVNT4wvIGY) | [Razni izvori](https://www.whosampled.com/Gotye/Somebody-That-I-Used-to-Know/) | 🎛️ Sve je sample!                                                                     |
+| N.W.A.                          | [Straight Outta Compton](https://www.youtube.com/watch?v=TMZi25Pq3T8)       | [The Winstons – Amen Brother](https://www.youtube.com/watch?v=GxZuq57_bYM)     | 🥁 Bubanj (Amen Break) → [isolirani dio](https://www.youtube.com/watch?v=rvCZ-HmXtCc) |
+| Fred again.. ft. Blessed Madonna | [Marea](https://www.youtube.com/watch?v=l4UkYBr1NnA)                        | [Zoom poziv](https://www.youtube.com/watch?v=t4EE5dGrVJU)                      | 🗣️ Govor                                                                             |
+| Gotye                            | [Somebody That I Used To Know](https://www.youtube.com/watch?v=8UVNT4wvIGY) | [Razni izvori](https://www.whosampled.com/Gotye/Somebody-That-I-Used-to-Know/) | 🎛️ Sve je sample!                                                                    |
 
 🧠 **WhoSampled** – odlična stranica gdje možete istražiti koje pjesme koriste koje sampleove:
 🌐 [https://whosampled.com](https://whosampled.com)
@@ -108,7 +108,7 @@ Bok svima! Zapišite/bookmarkajte si link do ove stranice:
 
 ## 🎤 Snimanje sample-ova – danas na radionici
 
-Koristimo **besplatan softver**: [Audacity](https://www.audacityteam.org/)
+Koristimo **besplatan softver**: [Ocenaudio](https://www.ocenaudio.com/)
 🖥️ Već je instaliran na računalima.
 
 ---
@@ -118,7 +118,7 @@ Koristimo **besplatan softver**: [Audacity](https://www.audacityteam.org/)
 ### Skupina 1: Snimanje s ploča
 
 * 🎵 **Gramofon:** Audio Technica AT-LP60
-* 💻 Snimanje preko USB izlaza u Audacity
+* 💻 Snimanje preko USB izlaza u **Ocenaudio**
 * ✂️ Izdvajanje zanimljivih dijelova za korištenje
 * 📌 *Upute su kod gramofonske stanice*
 
@@ -131,7 +131,7 @@ Koristimo **besplatan softver**: [Audacity](https://www.audacityteam.org/)
 
 ### 🎁 Bonus: Snimanje s kazeta
 
-* 📼 Kazetofon → 🎛️ ADC → 💻 Audacity
+* 📼 Kazetofon → 🎛️ ADC → 💻 **Ocenaudio**
 * Za one koji se žele odvažiti!
 
 ---
@@ -148,7 +148,7 @@ Sve što snimimo danas bit će automatski sinkronizirano u zajednički Google Dr
 
 | Resurs              | Link                                                                                         |
 | ------------------- | -------------------------------------------------------------------------------------------- |
-| Audacity            | [audacityteam.org](https://www.audacityteam.org/)                                            |
+| Ocenaudio           | [ocenaudio.com](https://www.ocenaudio.com/)                                                  |
 | WhoSampled          | [whosampled.com](https://whosampled.com)                                                     |
 | Google Drive folder | [Link](https://drive.google.com/drive/folders/1eFBlL7ELi-er3B4FCKvyltNHiDU1W1YU?usp=sharing) |
 
@@ -158,3 +158,4 @@ Sve što snimimo danas bit će automatski sinkronizirano u zajednički Google Dr
 
 Krenimo s kratkim demonstracijama svega što ćemo danas raditi 🎧
 Sretno i uživajte!
+
