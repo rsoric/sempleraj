@@ -1,109 +1,163 @@
-# sempleraj
-Radionica sempliranja glazbe, Osijek 2025.
+# 🎛️ sempleraj
 
-Brzi pregled resursa je na kraju README-ja :)
+**Radionica sempliranja glazbe – Osijek, 2025.**
 
-<add image from repo here sempleraj.png>
+📌 **Brzi pregled resursa** nalazi se na dnu ovog dokumenta.
+📸
+![Sempleraj](./sempleraj.png)
 
-# Dobrodošli!
+---
 
-Bok svima! Zapišite si link od ovog repozitorija:
-github.com/rsoric/sempleraj
-ili
-tinyurl.com/2a2ryedu
+## 👋 Dobrodošli!
 
-Što ćemo sve raditi 1. dan (Utorak 8.7.2025.):
+Bok svima! Zapišite si link do ovog repozitorija:
+🔗 [github.com/rsoric/sempleraj](https://github.com/rsoric/sempleraj)
+🔗 [tinyurl.com/2a2ryedu](https://tinyurl.com/2a2ryedu)
 
-Uvodno, kratko, zanimljivo:
-* Što je sample
-* Primjeri
-* Što sampliranje omogućuje?
-* Audio Sample vs. 'Sample'
-* Što je DAC?
+---
 
-Snimanje sample-ova
-* Snimanje zvuova iz prostora
-* Snimanje s ploča
-* Snimanje sample-ova
+## 📅 Što ćemo raditi prvi dan (Utorak 8.7.2025.)
 
-Drugi puta (sneak peek) - korištenje snimljenih sampleova kako bi napravili vlastitu pjesmu! Danas si pravimo materijal s kojim ćemo nastaviti prekosutra.
+### 🔹 Uvod – kratko i zanimljivo:
 
-Pa krenimo, Uvodno predavanje ---
+* Što je **sample**
+* Primjeri iz glazbe
+* Što **sampliranje omogućuje**
+* Razlika između **audio sample** i statističkog 'sample'-a
+* Što je **DAC (Digital-to-Analog Converter)**?
 
-Što je sample? Eng definicija (prevesti na hrvatski)
-<add image from repo here sampling.png>
-In sound and music, sampling is the reuse of a portion (or sample) of a sound recording in another recording. Samples may comprise elements such as rhythm, melody, speech, or sound effects.
+### 🔹 Snimanje sample-ova:
 
-Što je izvor za sample?
-Može biti bilo što, primjeri
-* bubanj
-* - drum loop
-  - samo jedan komadić bubnja, pojedini udarac
-* vokal (ili isto, komadić vokala)
-* Zvuk snimljen u prirodi, u gradu, kod kuće, s radija
-* Cijeli komad postojeće druge pjesme
-- dodati još primjera ovdje-
+* Zvukovi iz prostora
+* Snimanje s **ploča**
+* Snimanje vlastitih **zvukova**
 
-Idemo pogledati par primjera...
+📌 *Drugi dan ćemo koristiti snimljene sample-ove da napravimo vlastitu pjesmu! Danas stvaramo sirovine s kojima ćemo raditi.*
 
-<add image from repo here sample_example.png>
+---
 
-M.I.A. - Paper Planes https://www.youtube.com/watch?v=ewRjZoRtu0Y
-Sadržava sample...
-The Clash - Straight to Hell https://www.youtube.com/watch?v=t7SvtikTkrM
-Vrsta sample-a: Melodičan loop
+## 📖 Što je sample?
 
-Kanye West - Blood On The Leaves https://www.youtube.com/watch?v=KEA0btSNkpw
-Sadržava sample...
-Nina Simone - Strange Fruit (original od Billie Holiday) https://www.youtube.com/watch?v=BnuEMdUUrZQ
-Vrsta sample-a: Vokali
+📸
+![Sampling](./sampling.png)
 
-N.W.A. - Straight Outta Compton
-Sadržava sample...
-The Winstons - Amen Brother https://www.youtube.com/watch?v=GxZuq57_bYM
-Vrsta sample-a: bubnjevi
-Evo izolirani dio bubnjeva: https://www.youtube.com/watch?v=rvCZ-HmXtCc
+> **Engleska definicija (za prevesti):**
+> *In sound and music, sampling is the reuse of a portion (or sample) of a sound recording in another recording. Samples may comprise elements such as rhythm, melody, speech, or sound effects.*
 
-Fred again.. feat. The Blessed Madonna - Marea (We’ve Lost Dancing) https://www.youtube.com/watch?v=l4UkYBr1NnA
-Sadržava sample...
-Ovog videopoziva: https://www.youtube.com/watch?v=t4EE5dGrVJU
-Vrsta sample-a: Pričanje
+### 🎧 Izvori za sample mogu biti bilo što:
 
-Gotye: Somebody That I Used To Know https://www.youtube.com/watch?v=8UVNT4wvIGY
-Sadržava sample...
-Ovo je trik, sve je sample.
-https://www.whosampled.com/Gotye/Somebody-That-I-Used-to-Know/
+| Vrsta                      | Primjeri                  |
+| -------------------------- | ------------------------- |
+| 🥁 Bubnjevi                | Drum loop, jedan udarac   |
+| 🎤 Vokali                  | Komadić vokalne linije    |
+| 🌆 Ambijentalni zvukovi    | Grad, priroda, kuća       |
+| 📻 Radio, TV, kazete       | Slučajni ulomci           |
+| 🎶 Cijeli dio druge pjesme | Melodije, beatovi, vokali |
+| 🔬 Eksperimentalni zvukovi | Šumovi, glitch, DIY       |
 
-Whosampled: izvrsna stranica gdje možete upisati svoje najdraže pjesme i vidjeti sadržavaju li neki sample, i odakle je
-https://whosampled.com
-<add image from repo here whosampled.png>
+---
 
-Što sampliranje omogućuje?
-- Ako posložimo zvukove jedan do drugog, možemo stvoriti totalno drugu pjesmu
-- Ako radimo na nekoj pjesmi, možemo ubaciti sampleove u nju (sampleovi su 'življi' od sintisajzera)
-- Sempliranje stare pjesme omogućuje njenu rekontestualizaciju za moderno vrijeme
+## 🎼 Primjeri samplova u popularnoj glazbi
 
-Kako samplirati?
-<add image from repo here adc.png>
-- Potrebno je pretvoriti analogni signal u digitalni!
-- ADC - Analog to Digital Converter
-- Svaki uređaj koji snima zvuk u nekom obliku ima ovaj dio, vaša računala, mobiteli...
-- Postoje vanjski ADC-ovi koji su kvalitetniji (Audio Interface)
+📸
+![Sample Example](./sample_example.png)
 
-- <add image from repo here audio_interface.png>
+| Umjetnik                         | Pjesma                                                                      | Sample iz                                                                      | Vrsta sample-a                                                                        |
+| -------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| M.I.A.                           | [Paper Planes](https://www.youtube.com/watch?v=ewRjZoRtu0Y)                 | [The Clash – Straight to Hell](https://www.youtube.com/watch?v=t7SvtikTkrM)    | 🎸 Melodični loop                                                                     |
+| Kanye West                       | [Blood On The Leaves](https://www.youtube.com/watch?v=KEA0btSNkpw)          | [Nina Simone – Strange Fruit](https://www.youtube.com/watch?v=BnuEMdUUrZQ)     | 🎤 Vokal                                                                              |
+| N.W\.A.                          | Straight Outta Compton                                                      | [The Winstons – Amen Brother](https://www.youtube.com/watch?v=GxZuq57_bYM)     | 🥁 Bubanj (Amen Break) → [isolirani dio](https://www.youtube.com/watch?v=rvCZ-HmXtCc) |
+| Fred again.. ft. Blessed Madonna | [Marea](https://www.youtube.com/watch?v=l4UkYBr1NnA)                        | [Zoom poziv](https://www.youtube.com/watch?v=t4EE5dGrVJU)                      | 🗣️ Govor                                                                             |
+| Gotye                            | [Somebody That I Used To Know](https://www.youtube.com/watch?v=8UVNT4wvIGY) | [Razni izvori](https://www.whosampled.com/Gotye/Somebody-That-I-Used-to-Know/) | 🎛️ Sve je sample!                                                                    |
 
---- the main event: snimanje sample-ova ---
+🧠 **WhoSampled** – odlična stranica gdje možete istražiti koje pjesme koriste koje sampleove:
+🌐 [https://whosampled.com](https://whosampled.com)
 
-Kako ćemo snimati sample-ove? Pratimo svi
+📸
+![WhoSampled](./whosampled.png)
 
-Besplatan program: Audacity
-https://www.audacityteam.org/
+---
 
-S ploče
+## 🧩 Što čini dobar sample?
 
+* 🎯 Čisti dijelovi pjesme (gdje se čuje samo jedan instrument)
+* 🎲 Nasumični ili neobični zvukovi
+* 🧪 Eksperimentalna glazba i neobični izvori
+* 💬 Snimljeni dijalozi, ambijenti
 
+---
 
+## 🎨 Što omogućuje sampliranje?
 
+* 🎶 Stvaranje potpuno nove pjesme iz starih dijelova
+* 🔀 Kombinacija s drugim elementima – živi, organski osjećaj
+* 🕰️ Reinterpretacija stare glazbe u modernom kontekstu
 
-Ako želite znati više
+---
 
+## 🔧 Kako samplirati?
+
+📸
+![ADC](./adc.png)
+
+* Zvuk iz svijeta je **analogan** → treba ga **pretvoriti u digitalni**
+* Potrebna oprema:
+
+  * 🎙️ Mikrofon
+  * 💻 Računalo s **ADC** (Analog-to-Digital Converter)
+  * 🎛️ **Audio Interface** (za bolju kvalitetu)
+
+📸
+![Audio Interface](./audio_interface.png)
+
+---
+
+## 🎤 Snimanje sample-ova – danas na radionici
+
+Koristimo **besplatan softver**: [Audacity](https://www.audacityteam.org/)
+🖥️ Već je instaliran na računalima u učionici.
+
+---
+
+## 👥 Organizacija snimanja
+
+### Skupina 1: Snimanje s ploča
+
+* 🎵 **Gramofon:** Audio Technica AT-LP60
+* 💻 Snimanje preko USB izlaza u Audacity
+* ✂️ Izdvajanje zanimljivih dijelova za korištenje
+* 📌 *Upute su kod gramofonske stanice*
+
+### Skupina 2: Snimanje ambijenta i predmeta
+
+* 🏠 U drugoj prostoriji
+* 🎙️ Mikrofon već spojen
+* 🎲 Koristimo razne predmete i prostore za stvaranje zvukova
+* 📌 *Upute su kod snimateljske stanice*
+
+### 🎁 Bonus: Snimanje s kazeta
+
+* 📼 Kazetofon → 🎛️ ADC → 💻 Audacity
+* Za one koji se žele odvažiti!
+
+---
+
+## 🔄 Sync & organizacija
+
+Sve što snimimo danas bit će **automatski sinkronizirano** u zajednički Google Drive folder.
+
+---
+
+## 📚 Brzi pregled resursa
+
+| Resurs      | Link                                                               |
+| ----------- | ------------------------------------------------------------------ |
+| Audacity    | [audacityteam.org](https://www.audacityteam.org/)                  |
+| WhoSampled  | [whosampled.com](https://whosampled.com)                           |
+
+---
+
+## 🚀 Spremni?
+
+Krenimo s kratkim demonstracijama svega što ćemo danas raditi 🎧
+Sretno i uživajte!
