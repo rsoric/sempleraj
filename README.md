@@ -149,4 +149,6 @@ Sve što snimimo danas bit će automatski sinkronizirano u zajednički Google Dr
 | Ocenaudio           | [ocenaudio.com](https://www.ocenaudio.com/)                                                  |
 | WhoSampled          | [whosampled.com](https://whosampled.com)                                                     |
 | Google Drive folder | [Link](https://drive.google.com/drive/folders/1eFBlL7ELi-er3B4FCKvyltNHiDU1W1YU?usp=sharing) |
+| LMMS | [Link](https://lmms.io/) |
+
 
